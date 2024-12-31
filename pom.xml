@@ -10,8 +10,9 @@
 
     <properties>
         <docker.image.prefix>kammana</docker.image.prefix>
-        <java.version>11</java.version> <!-- Define the Java version -->
+        <java.version>17</java.version> <!-- Set to Java 17 -->
     </properties>
+
 
     <dependencies>
         <dependency>
